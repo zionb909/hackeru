@@ -1,0 +1,9 @@
+<!DOCTYPE root [
+
+<!ENTITY class1 "data>
+
+<!ELEMENT rest(login,secret)>
+<!ELEMENT login(#PCDATA)>
+<!ELEMENT secret(#PCDATA)>
+
+]>
